@@ -1,0 +1,25 @@
+{
+  "name": "Blackened Tilapia",
+  "ingredients": [
+    {"name": "paprika", "amount": 3, "unit": "tablespoons", "notes": ""},
+    {"name": "onion powder", "amount": 1, "unit": "tablespoon", "notes": ""},
+    {"name": "garlic powder", "amount": 1, "unit": "teaspoon", "notes": "just a pinch"},
+    {"name": "ground white pepper", "amount": 1, "unit": "teaspoon", "notes": ""},
+    {"name": "ground black pepper", "amount": 1, "unit": "teaspoon", "notes": ""},
+    {"name": "cayenne-pepper", "amount": 1, "unit": "teaspoon", "notes": "or to taste"},
+    {"name": "dried oregano", "amount": 1, "unit": "teaspoon", "notes": ""},
+    {"name": "dried thyme", "amount": 1, "unit": "teaspoon", "notes": ""},
+    {"name": "celery seed", "amount": 0.5, "unit": "teaspoon", "notes": ""},
+    {"name": "salt", "amount": 1, "unit": "tablespoon", "notes": "kosher, or to taste"},
+    {"name": "tilapia", "amount": 1, "unit": "pound", "notes": "fillets"},
+    {"name": "lemon", "amount": 1, "unit": "qty,", "notes": "cut into wedges"},
+    {"name": "Olive Oil", "amount": 1, "unit": "tablespoon", "notes": "or vegetable oil"}
+  ],
+  "instructions":
+  [
+    "IDK"
+  ],
+  "source": "https://www.allrecipes.com/recipe/89577/blackened-tilapia"
+
+
+}
