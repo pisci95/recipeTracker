@@ -32,7 +32,7 @@ class Ingredient:
         self.name = recipeDict["name"]
         self.amount = recipeDict["amount"]
         self.unit = recipeDict["unit"]
-        self.notes = recipeDict["notes"]
+        self.notes = recipeDict["notes"] if "notes" in recipeDict else None
         self.unit_type = Measurements.classify(self.unit)
 
     @staticmethod
@@ -69,12 +69,12 @@ class Ingredient:
         return Ingredient.createFromArgs(name, amount, unit, notes)
 
     def toJson(self):
-        return json.dump({
+        return {
             "name": self.name,
             "amount": self.amount,
             "unit": self.unit,
             "notes": self.notes
-        })
+        }
 
 
 def sanitzeUnit(unit: str):

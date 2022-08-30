@@ -1,0 +1,21 @@
+{
+  "name": "Dijon Baked Salmon",
+  "ingredients": [
+    {"name": "salmon", "amount": 1.5, "unit": "pounds", "notes": "King, Sockeye or Coho"},
+    {"name": "parsley", "amount": 0.25, "unit": "cups", "notes": "fresh, finely copped"},
+    {"name": "dijon mustard", "amount": 0.25, "unit": "cups", "notes": ""},
+    {"name": "lemon juice", "amount": 1, "unit": "tbsp", "notes": ""},
+    {"name": "oil", "amount": 1, "unit": "tbsp", "notes": "avacado oil"},
+    {"name": "garlic", "amount": 3, "unit": "cloves", "notes": ""},
+    {"name": "pepper", "amount": 1, "unit": "tsp", "notes": ""},
+    {"name": "salt", "amount": 1, "unit": "tsp", "notes": ""}
+  ],
+  "instructions": [
+    "Preheat your oven to 375 degrees Fahrenheit. Mix together the mustard, parsley, lemon juice, oil, and garlic in a small bowl.",
+    "Place the salmon on a parchment lined baking tray and generously coat the top of the salmon with the herbed mustard mix.",
+    "Bake the salmon for 18-20 minutes (depending on size and thickness), then slice it into individual portions and serve immediately."
+  ],
+  "source": "https://downshiftology.com/recipes/dijon-baked-salmon/",
+  "rating": -1,
+  "tags": []
+}
